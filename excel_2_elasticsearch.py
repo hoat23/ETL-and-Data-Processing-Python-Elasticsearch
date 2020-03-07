@@ -4,7 +4,7 @@
 # Developer: Deiner Zapata Silva.
 # Date: 06/03/2020
 # Last Update: 06/03/2020
-# Description: Codigo para procescesar datos de REPSOL 
+# Description: Código excel para leer un excel y cargarlo a un indice en elasticsearch.
 # sys.setdefaultencoding('utf-8') #reload(sys)
 #######################################################################################
 import requests
