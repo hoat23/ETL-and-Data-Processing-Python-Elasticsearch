@@ -9,6 +9,7 @@ GeoLite2 data created by MaxMind
 https://dev.maxmind.com/geoip/geoip2/geolite2/
 https://github.com/maxmind/GeoIP2-python
 
-# Migrate data from pandas to elastic
+## More Info
 
-https://towardsdatascience.com/exporting-pandas-data-to-elasticsearch-724aa4dd8f62
+- https://eland.readthedocs.io/en/7.10.0b1/examples/introduction_to_eland_webinar.html
+- https://towardsdatascience.com/exporting-pandas-data-to-elasticsearch-724aa4dd8f62
