@@ -1,6 +1,8 @@
-# ExtractionTranformationLoadUsingPython
-ETL using Pthon
+# Extraction Tranformation Load Using Python
+ETL using Python
 
+## Encoding types
+- ISO-8859-1
 
 ## GEO IP LOCATION
 
