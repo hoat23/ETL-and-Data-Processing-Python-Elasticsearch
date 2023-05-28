@@ -11,6 +11,13 @@ GeoLite2 data created by MaxMind
 https://dev.maxmind.com/geoip/geoip2/geolite2/
 https://github.com/maxmind/GeoIP2-python
 
+## Elasticsearch Export: Using Elasticsearch Dump
+
+npm install elasticdump
+
+### Documentation
+- https://github.com/elasticsearch-dump/elasticsearch-dump
+
 ## More Info
 
 - https://eland.readthedocs.io/en/7.10.0b1/examples/introduction_to_eland_webinar.html
